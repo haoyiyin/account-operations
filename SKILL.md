@@ -1,9 +1,9 @@
 ---
-name: account-cultivation-generic
-description: "Universal account cultivation skill for any website. Uses Camoufox (anti-detect Firefox fork) for Cloudflare bypass, UI-based interaction for human-like behavior, and humanizer for content polishing. Works on Medium, Reddit, Quora, X, LinkedIn, and any web platform."
+name: account-operations-generic
+description: "Universal account operations skill for any website. Uses Camoufox (anti-detect Firefox fork) for Cloudflare bypass, UI-based interaction for human-like behavior, and humanizer for content polishing. Works on Medium, Reddit, Quora, X, LinkedIn, and any web platform."
 ---
 
-# Universal Account Cultivation Skill
+# Universal Account Operations Skill
 
 Build and maintain a real presence on any web platform using Camoufox (anti-detect Firefox fork). All interactions via UI — clicking, typing, scrolling — indistinguishable from a real user.
 
@@ -552,4 +552,4 @@ for el in elements:
 - Camoufox docs: https://camoufox.com/
 - Camoufox Python API: https://camoufox.com/python/usage/
 - Humanizer skill: `skill_view(name='humanizer')`
-- Per-site skills: `medium-cultivate-ubuntu`, `reddit-cultivate-ubuntu`, `quora-cultivate-ubuntu`
+- Per-site skills: `medium-operations-ubuntu`, `reddit-operations-ubuntu`, `quora-operations-ubuntu`
